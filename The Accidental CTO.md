@@ -8,7 +8,7 @@
 
 ## **Subhash Choudhary**
 
-[Chapter 1: The 3 AM Phone Call 4](#_u6de6km862hh)
+[Chapter 1: The 3 AM Phone Call 4](#the-3-am-phone-call)
 
 [Chapter 2: The WhatsApp PDF Problem (The Origin) 17](#_jpj8ytq1n4qi)
 
