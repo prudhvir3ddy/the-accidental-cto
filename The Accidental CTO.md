@@ -10,23 +10,23 @@
 
 [Chapter 1: The 3 AM Phone Call 4](#the-3-am-phone-call)
 
-[Chapter 2: The WhatsApp PDF Problem (The Origin) 17](#_jpj8ytq1n4qi)
+[Chapter 2: The WhatsApp PDF Problem (The Origin) 17](#chapter-2-the-whatsapp-pdf-problem-the-origin)
 
-[Chapter 3: The Great Divorce: Separating the App and the Database 34](#_ci63lo5eqqyu)
+[Chapter 3: The Great Divorce: Separating the App and the Database 34](#chapter-3-the-great-divorce-separating-the-app-and-the-database)
 
-[Chapter 4: The Traffic Cop: An Introduction to Load Balancing 55](#_fl1pki8qhwyn)
+[Chapter 4: The Traffic Cop: An Introduction to Load Balancing 55](#chapter-4-the-traffic-cop-an-introduction-to-load-balancing)
 
-[Chapter 5: The Bouncer at the Database Club: Read Replicas 71](#_z8rc7y1lb8vz)
+[Chapter 5: The Bouncer at the Database Club: Read Replicas 71](#chapter-5-the-bouncer-at-the-database-club-read-replicas)
 
-[Chapter 6: "Don't Test on Prod, Bro!": The Staging Environment 92](#_34q2kua08e9z)
+[Chapter 6: "Don't Test on Prod, Bro!": The Staging Environment 92](#chapter-6-dont-test-on-prod-bro-the-staging-environment)
 
-[Chapter 7: The Need for Speed: Caching with Redis 108](#_v10yhvxlcf06)
+[Chapter 7: The Need for Speed: Caching with Redis 108](#chapter-7-the-need-for-speed-caching-with-redis)
 
-[Chapter 8: Breaking the Monolith: Our First Microservice 124](#_vowee07q6el)
+[Chapter 8: Breaking the Monolith: Our First Microservice 124](#chapter-8-breaking-the-monolith-our-first-microservice)
 
-[Chapter 9: The Unbreakable Promise: Data Consistency with Kafka 140](#_lnzg81vc2aku)
+[Chapter 9: The Unbreakable Promise: Data Consistency with Kafka 140](#chapter-9-the-unbreakable-promise-data-consistency-with-kafka)
 
-[Chapter 10: The Shipping Container Revolution: An Introduction to Docker 152](#_k8hkd6a3d98)
+[Chapter 10: The Shipping Container Revolution: An Introduction to Docker 152](#chapter-10-the-shipping-container-revolution-an-introduction-to-docker)
 
 [Chapter 10: The Smart Clerk: Building World-Class Search 167](#_z9irczs38c8c)
 
